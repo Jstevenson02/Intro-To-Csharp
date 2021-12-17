@@ -1,0 +1,10 @@
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\bin\Debug\lab_2_2_5_Stevenson.exe.config
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\bin\Debug\lab_2_2_5_Stevenson.exe
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\bin\Debug\lab_2_2_5_Stevenson.pdb
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.csprojAssemblyReference.cache
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.Form1.resources
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.Properties.Resources.resources
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.csproj.GenerateResource.cache
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.csproj.CoreCompileInputs.cache
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.exe
+C:\Users\Image\source\repos\lab_2_2_5_Stevenson\lab_2_2_5_Stevenson\obj\Debug\lab_2_2_5_Stevenson.pdb

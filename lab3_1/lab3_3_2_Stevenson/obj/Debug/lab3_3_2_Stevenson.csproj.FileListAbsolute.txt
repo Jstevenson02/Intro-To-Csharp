@@ -1,0 +1,10 @@
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\bin\Debug\lab3_3_2_Stevenson.exe.config
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\bin\Debug\lab3_3_2_Stevenson.exe
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\bin\Debug\lab3_3_2_Stevenson.pdb
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.Form1.resources
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.Properties.Resources.resources
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.exe
+C:\Users\jacob\source\repos\lab3_3_2_Stevenson\obj\Debug\lab3_3_2_Stevenson.pdb

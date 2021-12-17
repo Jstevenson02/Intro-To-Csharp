@@ -1,0 +1,16 @@
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\bin\Debug\netcoreapp3.1\lab3_3_3_Stevenson.exe
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\bin\Debug\netcoreapp3.1\lab3_3_3_Stevenson.deps.json
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\bin\Debug\netcoreapp3.1\lab3_3_3_Stevenson.runtimeconfig.json
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\bin\Debug\netcoreapp3.1\lab3_3_3_Stevenson.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\bin\Debug\netcoreapp3.1\lab3_3_3_Stevenson.dll
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\bin\Debug\netcoreapp3.1\lab3_3_3_Stevenson.pdb
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.Form1.resources
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.AssemblyInfo.cs
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.dll
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.pdb
+C:\Users\jacob\source\repos\lab3_3_3_Stevenson\obj\Debug\netcoreapp3.1\lab3_3_3_Stevenson.genruntimeconfig.cache

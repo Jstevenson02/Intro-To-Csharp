@@ -1,0 +1,9 @@
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\bin\Debug\Total Sales.exe
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\bin\Debug\Total Sales.pdb
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.AssemblyReference.cache
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Form1.resources
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total_Sales.Properties.Resources.resources
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.GenerateResource.cache
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.exe
+C:\Users\jacob\Downloads\Student Sample Programs\Chap05\Total Sales\Total Sales\obj\x86\Debug\Total Sales.pdb

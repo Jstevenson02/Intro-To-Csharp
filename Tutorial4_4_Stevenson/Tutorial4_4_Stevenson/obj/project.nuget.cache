@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QodPQTWL6Ebh/34d8iLsDGV+NthGFjPv0947kmgnNqK/p26rFsx18yzY9VMTnk5Z/4X9ZyNnC3x6K6JChd8FDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jacob\\Desktop\\SLCCFreshMan\\C#\\Intro-To-Csharp\\C#-LAB\\lab4_2\\Tutorial4_4_Stevenson\\Tutorial4_4_Stevenson\\Tutorial4_4_Stevenson\\Tutorial4_4_Stevenson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jacob\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

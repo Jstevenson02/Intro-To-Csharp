@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tutorial5_4_Stevenson/1.0.0": {
+        "runtime": {
+          "Tutorial5_4_Stevenson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial5_4_Stevenson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

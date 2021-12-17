@@ -1,0 +1,16 @@
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\bin\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.exe
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\bin\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.deps.json
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\bin\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.runtimeconfig.json
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\bin\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.runtimeconfig.dev.json
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\bin\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.dll
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\bin\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.pdb
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.csproj.AssemblyReference.cache
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.Form1.resources
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.csproj.GenerateResource.cache
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.AssemblyInfo.cs
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.dll
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.pdb
+C:\Users\jacob\Documents\schoolRepos\C#\lab\lab5_3\Tutorial5_4_Stevenson\Tutorial5_4_Stevenson\obj\Debug\netcoreapp3.1\Tutorial5_4_Stevenson.genruntimeconfig.cache

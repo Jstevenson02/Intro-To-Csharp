@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\lab4_5_Stevenson.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\Time_Zone.Form1.resources
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\lab4_5_Stevenson.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\lab4_5_Stevenson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\lab4_5_Stevenson.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\lab4_5_Stevenson.AssemblyInfo.cs
+C:\Users\jacob\source\repos\lab4_5_Stevenson\lab4_5_Stevenson\obj\Debug\netcoreapp3.1\lab4_5_Stevenson.csproj.CoreCompileInputs.cache

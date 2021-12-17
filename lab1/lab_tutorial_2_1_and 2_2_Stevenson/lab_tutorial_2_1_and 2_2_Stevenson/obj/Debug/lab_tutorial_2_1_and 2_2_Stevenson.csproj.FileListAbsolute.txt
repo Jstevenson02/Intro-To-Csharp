@@ -1,0 +1,10 @@
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\bin\Debug\lab_tutorial_2_1_and 2_2_Stevenson.exe.config
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\bin\Debug\lab_tutorial_2_1_and 2_2_Stevenson.exe
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\bin\Debug\lab_tutorial_2_1_and 2_2_Stevenson.pdb
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and 2_2_Stevenson.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and_2_2_Stevenson.Form1.resources
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and_2_2_Stevenson.Properties.Resources.resources
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and 2_2_Stevenson.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and 2_2_Stevenson.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and 2_2_Stevenson.exe
+C:\Users\jacob\source\repos\ASDV\labs\lab1\lab_tutorial_2_1_and 2_2_Stevenson\lab_tutorial_2_1_and 2_2_Stevenson\obj\Debug\lab_tutorial_2_1_and 2_2_Stevenson.pdb
